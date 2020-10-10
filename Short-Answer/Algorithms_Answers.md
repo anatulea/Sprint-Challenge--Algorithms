@@ -2,7 +2,7 @@
 
 ## Exercise I
 
-a)
+a) bigO
 
 
 b)
