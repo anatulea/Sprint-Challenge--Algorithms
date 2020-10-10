@@ -26,7 +26,7 @@ Will start at the first floor and drop an egg,
     else will return the floor number I am at.
 
 This will have a run time of O(n) and will break just one egg but it is not the fastest.
-We already know that the number of floors is ordered. So for a faster solution will use a binary search tree and start throwing eggs from the middle of the building. That will cost us more broken eggs.
+We already know that the number of floors is ordered. So for a faster solution will use a binary search tree and start throwing eggs from the middle of the building. That will cost us more broken eggs but will have a O(log n) runtime. As the requirements of the problem will be to use the minimum amount of eggs the simple iteration will be used.
 
 
 
